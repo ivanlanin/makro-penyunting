@@ -1,4 +1,12 @@
-Kumpulan macro Microsoft Word yang berguna bagi editor.
+Kumpulan macro Microsoft Word untuk editor.
+
+--
+
+English description:
+
+Collection of Microsoft Word macro for editors.
+
+--
 
 Rujukan:
 
